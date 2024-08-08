@@ -1,0 +1,10 @@
+=======================
+Action Research Project
+=======================
+
+
+Reading List
+============
+
+.. todo::
+   copy the reading list

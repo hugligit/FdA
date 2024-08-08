@@ -1,0 +1,10 @@
+===============================
+Introduction to Learning Theory
+===============================
+
+
+Reading List
+============
+
+.. todo::
+   copy the reading list
