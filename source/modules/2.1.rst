@@ -1,6 +1,6 @@
-===================================
-Continuous Professional Development
-===================================
+=======================================
+2.1 Continuous Professional Development
+=======================================
 
 By undertaking a wide range of CPD, teaching and learning support
 practitioners are more likely
@@ -16,96 +16,148 @@ Reflective Practice module to encourage course members to engage in
 ongoing reflection, planning and carrying out systems to help strengthen
 professional credibility for career development. 
 
+Aims
+====
 
-This module aims to enable students to:
-•toFurther develop specific aspects of their own role
-•roleExtend their current repertoire of skills in supporting learners
-•learnersMake an active contribution to a community of practice
-•practiceIdentify Individual progress and development throughout the
-year with future directions for           CPD
+* Further develop specific aspects of their own role
+* Extend their current repertoire of skills in supporting learners
+* Make an active contribution to a community of practice
+* Identify Individual progress and development throughout the year with
+  future directions for CPD
 
+Learning Outcomes
+=================
 
+#. **Investigate** and analyse CPD opportunities within the role
+#. **Develop** two specific areas of practice within the current academic
+   year.
+#. **Devise** a comprehensive strategy which will address the identified
+   areas
+#. **Reflect** and evaluate upon CPD activities undertaken and identify
+   areas for future development with reference to Professional Development
+   Portfolio
 
+Assessment
+==========
 
-The assessment strategy is designed to provide students with the
-opportunity to demonstrate:
-•demonstrateAbility to build on and continue aspects of their professional
-practice completed in the first year  
-•yearKnowledge and application of different methodologies to address their
-own learning needs for professional development.
-Thus, the summative assessment for this module consists of:
+* Ability to build on and continue aspects of their professional practice
+  completed in the first year  
+* Knowledge and application of different methodologies to address their
+  own learning needs for professional development.
 
-A written assignment to: 
+.. admonition:: A written assignment: 1200 words, LO1-3
+   :class: note
 
-•toInclude a CUPA analysis and action plans to formulate and devise
-a strategy to address two specific development areas identified from
-needs analysis   
-•analysisInvestigate formal and informal CPD opportunities available for
-•for own role.  
+   * Include a CUPA analysis and action plans to formulate and devise
+     a strategy to address two specific development areas identified from
+     needs analysis   
+   * Investigate formal and informal CPD opportunities available for own
+     role.  
 
-(1200 words to address Learning outcome 1, 2 and 3: completed by end of
-Semester 1)
+.. admonition:: A written reflection: 1800 words, LO4
 
-A written reflection and evaluation which: 
-
-•whichAnalyses CPD activities and individual progress throughout
-academic year and to identify future development needs supported by
-a portfolio of evidence which identifies professional development
-throughout the year based on occupational standards. Professional
-Development Portfolio is mentor approved and verified with formal
-formative feedback.
-
-(1800 words to address Learning outcome 4)
-
+   * Analyses CPD activities and individual progress throughout academic
+     year and to identify future development needs supported by
+     a portfolio of evidence which identifies professional development
+     throughout the year based on occupational standards. Professional
+     Development Portfolio is mentor approved and verified with formal
+     formative feedback.
 
 Reading List
 ============
 
-Bold, C. (2011) Supporting Learning and Teaching. 2nd ed. London: David Fulton.
-                                                                                                   eBook published 2011
-Cooper, H. (Editor) (2018) Professional Studies in Primary Education. 3rd ed. London: SAGE.
-                                                                                                  eBook available
+**Bold, C.**
+(2011) 
+*Supporting Learning and Teaching.* 2nd ed.
+London: David Fulton.
 
-Ghaye, A. (2011) Teaching and Learning Through Critical Reflective Practice: a practical guide for positive action.  2nd ed.  London:  Routledge.
+**Cooper, H. (Editor)**
+(2018) 
+*Professional Studies in Primary Education.* 3rd ed. 
+London: SAGE.
 
-Moon, J. (2015) Reflection in Learning and Professional Development: Theory and Practice.   London: Routledge Falmer.                                                             eBook published 2013
+**Ghaye, A.**
+(2011) 
+*Teaching and Learning Through Critical Reflective Practice: a practical
+guide for positive action.* 2nd ed.
+London: Routledge.
 
-Moon, J.  (2004) A Handbook of Reflective and Experiential Learning Theory and Practice. 
-London: Routledge Falmer.                                                             eBook available
+**Moon, J.**
+(2015) 
+*Reflection in Learning and Professional Development: Theory and
+Practice.* 
+London: Routledge Falmer.
 
-Overall, L. (2007) Supporting Children’s Learning – A Guide for Teaching Assistants.
-London:  SAGE.                                                                              eBook published 2012
+**Moon, J.**
+(2004) 
+*A Handbook of Reflective and Experiential Learning Theory and Practice.* 
+London: Routledge Falmer.
 
-Roffey-Barentsen J. and Malthouse, R.  (2013) Reflective Practice in Education and Training. 
-2nd Ed London: Sage.                                                                     eBook available
+**Overall, L.**
+(2007) 
+*Supporting Children’s Learning – A Guide for Teaching Assistants.*
+London: SAGE.
 
-Recommended Reading
+**Roffey-Barentsen J. and Malthouse, R.**
+(2013) 
+*Reflective Practice in Education and Training.* 2nd Ed London: Sage.
 
-Bolton, G (2014) Reflective Practice: Writing and Professional Development. 4th ed.
-London:  Sage.
+_________
 
-Cross V, Caladine L, Morris J, Hilton R, Bristow H. and Moore A.   (2009)   The Practice-Based Educator: A Reflective Tool for CPD and Accreditation. Chichester: John Wiley & Sons.
+**Bolton, G**
+(2014)
+*Reflective Practice: Writing and Professional Development.* 4th ed.
+London: Sage.
 
-Ellis, V.  (2011) Learning and Teaching in Secondary Schools. 4th ed. Exeter: Learning Matters.
-Ewens, T. (2014) Reflective Primary Teaching. Northwich: Clinical Publishing Services. 
+**Cross V, Caladine L, Morris J, Hilton R, Bristow H. and Moore A.**
+(2009)
+*The Practice-Based Educator: A Reflective Tool for CPD and
+Accreditation.*
+Chichester: John Wiley & Sons.
 
-Hayes, D.  (2009) Learning and Teaching in Primary Schools. Exeter: Learning Matters.
+**Ellis, V.**
+(2011)
+*Learning and Teaching in Secondary Schools.* 4th ed.
+Exeter: Learning Matters.
 
-Hall, F. Hindmarsh D., Hoy, D., Machin, L. (2015) Supporting Primary Teaching and Learning. 
+**Ewens, T.**
+(2014)
+*Reflective Primary Teaching.*
+Northwich: Clinical Publishing Services.
+
+**Hayes, D.**
+(2009)
+*Learning and Teaching in Primary Schools.*
+Exeter: Learning Matters.
+
+**Hall, F. Hindmarsh D., Hoy, D., Machin, L.**
+(2015)
+*Supporting Primary Teaching and Learning.*
 Critical Publishing Ltd.
 
-Megginson, D. and Whitaker, V. (2007) Continuing Professional Development. 2nd ed.
-London: CIPD.  
+**Megginson, D. and Whitaker, V.**
+(2007)
+*Continuing Professional Development.* 2nd ed.
+London: CIPD.
 
-Pollard, A. (2014) Reflective Teaching in Schools. 4th ed. London: Bloomsbury Academic. (Reflective teaching). 
+**Pollard, A.**
+(2014)
+*Reflective Teaching in Schools.* 4th ed.
+London: Bloomsbury Academic. (Reflective teaching).
 
-Tarrant, P. (2013) Reflective Practice and Professional Development. London: SAGE.
+**Tarrant, P.**
+(2013)
+*Reflective Practice and Professional Development.*
+London: SAGE.
 
-Watkinson, A (2005) Learning and Teaching: the essential guide for higher level teaching assistants.  London:  David Fulton.
+**Watkinson, A**
+(2005)
+*Learning and Teaching: the essential guide for higher level teaching
+assistants.*
+London: David Fulton.
 
-Watkinson, A (2005) Professional Values and Practice: the essential guide for higher level teaching assistants.  London:  David Fulton.
-
-
-
-.. todo::
-   copy the reading list
+**Watkinson, A**
+(2005)
+*Professional Values and Practice: the essential guide for higher level
+teaching assistants.*
+London: David Fulton.
