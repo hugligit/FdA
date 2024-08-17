@@ -1,0 +1,132 @@
+===================================
+2.4 Introduction to Action Research
+===================================
+
+Those supporting teaching and learning are often faced with a problem or issue
+that requires them to take steps to improve the situation.  Action research
+allows practitioners to address those concerns that are closest to them, ones
+over which they can exhibit some influence and make change.  An important
+aspect of this process is the ability to systematically describe the
+issue/problem and arrive at a proposed solution. In addition, when conducting
+research, one must be mindful of ethical and data protection issues. This
+module introduces learners to research methodology and the skills and
+techniques required to propose a small-scale action research project within
+their workplace.
+
+Aims
+====
+
+* The use of action research as a means of evaluating and improving
+  current practice
+* The key features and purpose of action research
+* The importance of reviewing current literature
+* Ethical approaches to research
+
+
+Learning Outcomes
+=================
+
+#. Evaluate current practice with a view to bringing about improvement.
+#. Produce a rationale which identifies key features of action research
+   and provides a clear justification for the chosen area of study
+#. Complete a short literature review which critically analyses existing
+   research
+
+Assessment
+==========
+
+* Improve a situation through systematic description of an issue or
+  problem and arrive at a proposed solution with ethical considerations.  
+* Incorporate use of IT through use of graphical representation 
+* Demonstrate originality and creativity
+
+
+.. admonition:: A written assignment: 1200 words, LO1, 2
+
+   * A written assignment to: 
+   * Explain key features and characteristics of action research 
+   * Evaluate an issue within current practice which requires improvement. 
+
+.. admonition:: Graphic depiction: eq. 1800 words, LO3
+
+   * A concept map to illustrate a review of literature:
+      * Critical analysis of existing research which is
+        relevant to the topic showing how it relates to the investigation; 
+      * An explanation and justification on how the investigation may help
+        answer some of the questions or gaps in the particular area of
+        research; 
+      * A statement of action and research question. 
+
+
+Reading List
+============
+
+**Baumfield, V., Hall, E.and Wall, K.**
+(2013)
+*Action Research in Education: Learning through practitioner enquiry.* 2nd ed.
+London: SAGE.   
+
+**Malthouse, R. and Roffey-Barentsen, J.**
+(2013)
+*Research Projects and dissertations: a Collection*: volume 1.
+London: Thalassa Publishing.  
+
+**McNiff, J.**
+(2013)
+*Action Research: Principles and Practice* 3rd ed.
+London: Routledge Falmer.  
+
+**McNiff, J.**
+(2014)
+*Writing and doing action research.*
+London: Sage. British Educational Research Association.  
+
+**Mills, G. E.**
+(2018)
+*Action research: A guide for the Teacher Researcher* 6th ed.
+New Jersey: Prentice-Hall International.  
+
+_____
+
+**Cohen, L., Manion L., and Morrison K.**
+(2011)
+*Research Methods in Education.*
+8th ed. London: Routledge.  
+
+**Efron, S.E., Ravid, R**
+(2020)
+*Action research in Education: a practical guide*, 2nd ed.
+London: The Guildford Press
+
+**Firth, J.**
+(2019)
+*The Teacher's Guide to Research: Engaging with, Applying and Conducting
+Research in the Classroom.*
+Oxon: Routledge
+
+**Hopkins, J.**
+(2015)
+*A Teachers Guide to Classroom Research*, 5th ed.
+Maidenhead: Open University Press.  
+
+**McAteer, M.**
+(2013)
+*Action research in education.*
+London: SAGE.  
+
+**Norton, L.**
+(2018)
+*Action Research in Teaching and Learning: A Practical Guide to Conducting
+Pedagogical Research in Universities* 2nd ed.
+Oxon: Routledge
+
+**Sagor R.**
+(2017)
+*The Action Research Guidebook: A Four-Stage Process for Educators and
+School Teams* 3rd ed.
+London: Corwin Press.  
+
+**Taber, K.S.**
+(2013)
+*Classroom-based research and evidence-based practice: an introduction.*
+2nd edn. London: SAGE.  

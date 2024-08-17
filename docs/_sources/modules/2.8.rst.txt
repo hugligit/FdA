@@ -1,0 +1,187 @@
+===================================
+2.8 Introduction to Learning Theory
+===================================
+
+An understanding of the theories of learning and their practical application is
+a fundamental aspect of the professional knowledge of practitioners within any
+sector of education. Such an understanding is crucial to engagement in
+reflective practice and the process of self-evaluation of practice.  This
+module is concerned with a critical review of different perspectives on
+learning and an identification of the manner in which each contributes to the
+relationship between theory and professional practice within the relevant
+context.
+
+Aims
+====
+
+* Various perspectives on and approaches to learning;
+* Strengths and limitations of each of the above;
+* Implications of these perspectives and approaches for professional practice.
+
+Learning Outcomes
+=================
+
+* Explain the relevance of learning theory to the educational practitioner
+* Compare and contrast  three theories of learning
+* Discuss and evaluate how each of these has an impact on own practice
+* Select the theory which is the most applicable and prominent in own setting,
+  providing a clear justification for your  choice
+
+Assessment
+==========
+
+.. admonition:: A written assignment: 1500 words, LO1, 2
+
+   * Explain the relevance of learning theories to the educational practitioner;
+   * Compare and contrast theories of learning
+
+.. admonition:: A written analysis: 1500 words, LO3, 4
+
+   * An evaluation on impact of learning theories in practice
+   * Identification of which theory is prominent in own practice, making a case for its suitability. 
+
+
+
+Reading List
+============
+
+**Hergenhahn, B.R. and Olson, M.H.**
+(2013)
+*An Introduction to Theories of Learning. 10th ed.*
+London: Pearson. E-book available on Bookshelf
+
+**Joyce, B. and Weil, M.**
+(2014)
+*Models of Teaching (9th ed.)*
+London: Pearson. Library copy only ..not available in the UK
+
+**Ormrod, J.**
+(2012)
+*Human Learning (6th ed.)*
+Boston: Pearson.
+
+**Pritchard, A.**
+(2009)
+*Ways of Learning : Learning Styles and Learning Theories in the Classroom*
+2nd ed. 
+London:Routledge. E-book on Moodle
+
+_____
+
+**Anderson, J.R.**
+(2020)
+*Cognitive Psychology and its Implications.* 9th ed.
+New York: Worth Publishers.
+
+**Bentham, S.**
+(2011)
+*A Teaching Assistant’s Guide to Child Development and Psychology in the
+Classroom* (2nd edn)
+London: Routledge Falmer.
+
+**Bold, C.**
+(2011)
+*Supporting Teaching and Learning*
+2nd ed. 
+LondonRoutledge
+
+**Eysenck, M.**
+(2001)
+*Principles of Cognitive Psychology.*
+2nd ed. 
+Hove: Psychology Press.
+
+**Geake, J. G.**
+(2009)
+*The Brain at School : Educational neuroscience in the Classroom.*
+Maidenhead: McGraw Hill/Open University Press .
+
+**Gould, J.**
+(2012)
+*Learning Theory and Classroom Practice in the Lifelong Learning Sector*
+2nd ed.
+London: Sage/Learning Matters.
+
+**Glassman W. and Hadad, M.**
+(2013)
+*Approaches to Psychology*
+6th ed. 
+Maidenhead:McGraw- Hill.
+
+**Gluck, M. A.**
+(2012)
+*Learning and Memory : From Brain to Behaviour*
+2nd ed. 
+New York: Worth.
+
+**Holson, M. H.**
+(2009)
+*An Introduction to Theories of Learning.*
+London: Pearson Prentice Hall.
+
+**Illeris, K.**
+(2009)
+*Contemporary Theories of Learning : Learning Theorists ... in their own
+words.*
+London: Routledge .
+
+**Lund, N.**
+(2010)
+*Intelligence and Learning*
+Basingstoke: Palgrave Macmillan. 
+
+**Jordan A., Carlile O., Stach A.**
+(2008)
+*Approaches to Learning: A Guide for Teachers*
+Milton Keynes: Open University Press.
+
+**Kamen, T.**
+(2003)
+*Teaching Assistant’s Handbook*
+London: Hodder & Stoughton.
+
+**Kolb, D.**
+(1984)
+*Experiential Learning: Experience as the Source of Learning and Development*
+New Jersey: Prentice Hall.
+
+**Lefrancois, G.**
+(1999) 
+*Psychology for Teaching*
+(10th ed.) 
+Belmont: Wadsworth.
+
+**Pound, L.**
+(2009)
+*How Children Learn 3 : Contemporary Thinking and Theorists.*
+Leamington Spa: Step Forward Publishing Ltd.
+
+**Pritchard,A & Woollard, J**
+(2010)
+*Psychology for the Classroom: Constructivism and Social Learning*
+London: Routledge
+
+**Snowman, J.**
+(2012)
+*Psychology Applied to Teaching.* 13th ed. 
+London: Cengage Learning. 
+
+**Snowman, J. and Biehler, R.**
+(2005)
+*Psychology Applied Teaching* (11th ed.) 
+Boston: Houghton Mifflin.
+
+**Tileston, D.**
+(2004)
+*What every Teacher Should Know about Learning, Memory and the Brain*
+London: SAGE
+
+**Westwood, P.**
+(2004)
+*Learning and Learning Difficulties – approaches to teaching and assessment*
+London: David Fulton.
+
+**Woolfolk, A., Hughes, M. and Walkup, V.**
+(2013)
+*Psychology in Education.* 2nd ed. 
+Harlow: Pearson Education.
