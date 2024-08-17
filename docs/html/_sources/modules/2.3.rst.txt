@@ -1,10 +1,215 @@
-========================================
-Special Education Needs and Disabilities
-========================================
+============================================
+2.3 Special Education Needs and Disabilities
+============================================
 
+A child has special educational needs if he or she has a learning difficulty
+which calls for special educational provision.  The Special Educational Needs
+and Disabilities framework makes an increasing assumption that children with
+special educational needs and disabilities will be educated in mainstream
+schools, thus requiring all schools to offer provision and support in an
+effective manner.   Within this framework, which emphasises inclusion and
+parental participation, duties require local educational authorities,
+maintained schools and others to identify, assess and make provision for
+children’s individual needs.  All pupils share the same statutory entitlement
+to a broad, balanced, coherent and relevant curriculum and the challenge is to
+ensure the work undertaken in schools and classrooms becomes more proactive and
+effective in order to enhance such access in a supportive and knowledgeable
+manner.  All members of the school team are required to join together to seek
+out those factors which help or hinder access to the curriculum and to make
+provision to support such need.
+
+Aims
+====
+
+* Current legislation and codes of practice which define SEND
+* To identify a range of special educational needs and those factors which help
+  or hinder access to the curriculum
+* Models of assessment and performance appraisal used for determining the
+  learning needs of pupils
+* Planning, provision and evaluation of appropriate and effective support for
+  special educational needs
+
+
+Learning Outcomes
+=================
+
+#. Review the characteristics which define special educational need and discuss
+   current developments and changes within the field
+#. Critically examine barriers to learning as well as the factors which may
+   cause such barriers
+#. Justify and assist in the planning and delivery of a learning strategy which
+   involves a pupil with special educational needs in activities which enable
+   access to a broad and balanced curriculum
+#. Evaluate the implementation of an intervention designed to manage a specific
+   special educational need
+
+Assessment
+==========
+
+* Seek out factors which help or hinder access to the curriculum; use the
+  information to describe a special educational need and to make provision to
+  support such need.
+
+
+.. admonition:: A written assignment: 1200 words, LO1, 3
+
+   * An overview of what is meant by SEND with reference to current legislation and to describe the ways in which SEN is recognized.
+   * An informed discussion on the barriers to learning which prevent learners accessing the full curriculum.
+
+
+.. admonition:: A written reflection: 1800 words, LO4
+
+   * Practical task to examine a particular intervention made on behalf of a learner to include:
+
+	  * A description of the intervention with discussion to justify why the intervention was deemed necessary and the form it took;
+	  * An evaluation of the intervention
 
 Reading List
 ============
 
-.. todo::
-   copy the reading list
+**Cheminais, R.**
+(2015)
+*Special educational needs for qualified and trainee teachers: a practical
+guide to the new changes* 3rd ed. 
+London: Routledge
+
+**Davies, K., & Henderson, P.**
+(2020)
+*Special educational needs in mainstream schools: Guidance report.*
+[Education Endowment Foundation] Online at:
+https://educationendowmentfoundation.org.uk/public/files/Publications/Send/EEF_Special_Educational_Needs_in_Mainstream_Schools_Guidance_Report.pdf
+
+**Glazzard et al**
+(2019)
+*Teaching and supporting children with special educational needs & disabilities
+in primary schools* (3rd ed) 
+London; Sage.
+
+**Mitchell, D.**
+(2020)
+*What Really Works in Special and Inclusive Education: using evidence-based
+teaching strategies* (3rd ed)
+Abingdon: Routledge.
+
+NASEN The SEND Code of Practice: 0 to 25 years
+https://nasen.org.uk/uploads/assets/e8aa4e1d-451b-4738-b3aaa0e6954a926f/SEND-Code-of-practice.pdf
+
+**Spooner, W.**
+(2010)
+*The SEN Handbook for Trainee Teachers, NQTs and Teaching Assistants* 2nd ed. 
+London: Routledge.
+
+_____
+
+**Boon, M.**
+(2010)
+*Understanding Dyspraxia : A Guide for Parents and Teachers. 2nd ed.*
+London: Jessica Kingsley.
+
+**Briggs, S.**
+(2016)
+*Meeting special educational needs in primary classrooms: inclusion and how to
+do it* (2nd ed)
+Abingdon: Routledge
+
+**Cartwright, A.**
+(2008)
+*The Teaching Assistant's Guide to Autistic Spectrum Disorders.*
+London: Continuum .
+
+**Chinn**
+(2010)
+*Addressing the Unproductive Classroom Behaviours of Students with Special
+Needs*
+http://lib.myilibrary.com/browse/open.asp?id=276723&entityid=https://idp.farn-ct.ac.uk/idp/shibboleth
+
+**Ekins, A.**
+(2015)
+*The changing face of special educational needs : impact and implications for
+SENCOs, teachers and their schools.* 2nd edn.
+Abingdon, Oxon: Routledge.
+
+**Frederickson & Cline**
+(2009)
+*Special Educational Needs, Inclusion and Diversity*
+http://lib.myilibrary.com/browse/open.asp?id=238260&entityid=https://idp.farn-ct.ac.uk/idp/shibboleth
+
+**Grant, D.**
+(2017)
+*That's the way I think : dyslexia, dyspraxia, ADHD and dyscalculia explained.*
+3rd ed.
+London: Routledge.
+
+**Hannell, G.**
+(2008)
+*Success with Inclusion: 1001 teaching strategies and activities that really
+work.*
+London:  David Fulton.
+
+**Hodkinson, A.**
+(2019)
+*Key Issues in Special Educational Needs and Inclusion.* 3rd ed
+London: SAGE.
+
+**Knowles, G.**
+(2010)
+*Supporting Inclusive Practice* 2nd ed.
+London:  David Fulton.
+
+**Logue, J.**
+(2009)
+*Working with Parents of Children with Additional Needs.*
+London: Featherstone Education.
+
+**Macintyre, C.**
+(2009)
+*Dyspraxia 5-14: Identifying and Supporting Young People with Movement
+Difficulties*
+Abingdon:   Routledge.
+
+**McWilliam R.A.**
+(2010)
+*Working with Families of Young Children with Special Needs.*
+London: Guildford press.
+
+**Morling, E. And O’Connell, C (eds)**
+(2015)
+*Supporting Children with Autistic Spectrum Disorder 2nd edition*
+London : David Fulton
+
+**Richards, G. & Armstrong, F (eds)**
+(2016)
+*Teaching and learning in diverse and inclusive classrooms: key issues for new
+teachers* (2nd ed)
+Abingdon: Routledge
+
+**Thompson, J.**
+(2010)
+*The Essential Guide to Understanding Special Educational Needs*
+Harlow: Longman
+
+**Tutt, R.**
+(2010)
+*Partnership Working to Support Special Educational Needs & Disabilities*
+London: SAGE.
+
+**Tutt, R. and Williams, P.**
+(2015)
+*The SEND code of practice 0-25 years : policy, provision and practice.*
+London: SAGE.
+
+**Wearmouth, J.**
+(2017)
+*Special Educational Needs and Disabilities in Schools.*
+London: Bloomsbury
+
+**Westwood, P.**
+(2015)
+*Commonsense Methods for Children with Special Educational Needs* 7th ed.
+London: Routledge.
+
+**Westwood, P.**
+(2018)
+*Inclusive and adaptive teaching: meeting the challenge of diversity in the
+classroom* (2nd ed)
+London: Routledge.

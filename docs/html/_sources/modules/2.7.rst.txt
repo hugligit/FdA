@@ -1,10 +1,121 @@
-=======================
-Action Research Project
-=======================
+===========================
+2.7 Action Research Project
+===========================
+
+Action research is carried out within the context of the practitioner’s
+environment—that is, with the pupils and at the educational setting in which
+they work. Having conducted initial research, presented a review of literature
+and proposed their research question, course members will continue this
+systematic approach to complete a small-scale action research project within
+their workplace with support from the module tutor and school-based mentor.
+
+Aims
+====
+
+* Action research methodology
+* The collection and interpretation of research data
+* The use of basic research and reporting techniques
+* The use of action research as a means of evaluating and improving current
+  practice
+
+Learning Outcomes
+=================
+
+#. Discuss and evaluate current practice with a view to bringing about
+   improvement.
+#. Design and implement an action research project using an appropriate
+   structure and methodology
+#. Evaluate action research as a methodology making reference to wider reading
+
+
+Assessment
+==========
+
+* Improve a situation through systematic description of an issue/problem,
+  arrive at a proposed solution and put this to the test.  
+* Incorporate use of IT through use of graphical representation 
+* Demonstrate originality and creativity
+
+.. admonition:: An action research project eq 1950 words, LO1, 2
+
+   * An action research project (infographic) to include: 
+   * Discussion of action research as a methodology, appropriately referenced  
+   * A description and justification of data collection methods  
+   * Statements on reliability, validity and ethical considerations
+   * Presentation of data
+   * Conclusions drawn from the data 
+   * Recommendations  
+
+.. admonition:: A written evaluation: 1050 words, LO3
+
+   * A written evaluation of Action research as a tool to improve practice
 
 
 Reading List
 ============
 
-.. todo::
-   copy the reading list
+**Cohen, L,. Manion, L., Morrison, K.**
+(2017)
+*Research Methods in Education*
+8th ed. 
+Oxon: Routledge
+
+**Coe, R., Waring, M., Hedges, L., Arthur, J.**
+(2017)
+*Research Methods and Methodologies in Education*
+2nd ed.
+London: Sage
+
+**Mills, G. E.**
+(2018)
+*Action research: A guide for the Teacher Researcher*
+6th ed. 
+New Jersey: Prentice-Hall International.
+
+**Thomas, G.**
+(2017)
+*How to Do Your Research Project: A Guide for Students*
+3rd ed.
+London: Sage
+
+_____
+
+**Efron, S.E., Ravid, R**
+(2020)
+*Action research in Education: a practical guide,*
+2nd ed.
+London: The Guildford Press
+
+**Firth, J.**
+(2019)
+*The Teacher's Guide to Research: Engaging with, Applying and Conducting
+Research in the Classroom.*
+Oxon: Routledge
+
+**Hopkins, J.**
+(2015)
+*A Teachers Guide to Classroom Research,*
+5th ed. 
+Maidenhead: Open University Press.
+ 
+**Lambert, M**
+(2019)
+*Practical Research Methods in Education: An Early Researcher's Critical Guide*
+Oxon: Routledge
+
+**McAteer, M.**
+(2013)
+*Action research in education.*
+London: SAGE.
+
+**Norton, L.**
+(2018)
+*Action Research in Teaching and Learning: A Practical Guide to Conducting
+Pedagogical Research in Universities 2nd ed.*
+Oxon: Routledge
+
+**Sagor R.**
+(2017)
+*The Action Research Guidebook: A Four-Stage Process for Educators and School Teams*
+3rd ed. 
+London: Corwin Press.

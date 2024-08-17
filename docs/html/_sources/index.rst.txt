@@ -17,6 +17,7 @@ Welcome to FdA Learning Support's documentation!
 
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Contents:
 
@@ -30,6 +31,7 @@ Welcome to FdA Learning Support's documentation!
    modules/2.8.rst
 
 
+.. todolist::
 
 Indices and tables
 ==================
