@@ -1,43 +1,43 @@
 const title = "Course 2024/25";
 const modules = [ // {{{
     ["2.1", 
-        ["14-07-2024", "09-10-2024", true, 1200, "long name"],
-        ["14-09-2024", "30-10-2024", true, 1800, "long name"],
+        ["19-09-2024", "07-10-2024", true, 1200, "long name"],
+        ["19-09-2024", "06-06-2025", true, 1800, "long name"],
     ],
 
     ["2.2",
-        ["21-09-2024", "18-03-2025", true, 1800, "long name"],
-        ["21-09-2024", "30-10-2024", false, 1200, "long name"],
+        ["03-10-2024", "04-11-2024", true, 1800, "long name"],
+        ["03-10-2024", "17-03-2025", false, 1200, "long name"],
     ],
 
     ["2.3",
-        ["11-01-2025", "19-02-2025", true, 1200, "long name"],
-        ["11-01-2025", "19-02-2025", true, 1800, "long name"],
+        ["17-10-2024", "02-12-2024", true, 1200, "long name"],
+        ["17-10-2024", "02-12-2024", true, 1800, "long name"],
     ],
 
     ["2.4",
-        ["15-10-2024", "13-11-2024", true, 1200, "long name"],
-        ["15-10-2024", "02-01-2025", false, 1800, "long name"],
+        ["14-11-2024", "13-01-2025", true, 1200, "long name"],
+        ["14-11-2024", "13-01-2025", false, 1800, "long name"],
     ],
 
     ["2.5",
-        ["09-11-2024", "04-12-2024", true, 1500, "long name"],
-        ["09-11-2024", "15-01-2025", false, 1500, "long name"],
+        ["16-01-2025", "24-02-2025", true, 1500, "long name"],
+        ["16-01-2025", "24-02-2025", false, 1500, "long name"],
     ],
 
     ["2.6",
-        ["28-03-2025", "21-05-2025", false, 1800, "long name"],
-        ["28-03-2025", "21-05-2025", true, 1200, "long name"],
+        ["24-04-2025", "19-05-2025", false, 1800, "long name"],
+        ["24-04-2025", "19-05-2025", true, 1200, "long name"],
     ],
 
     ["2.7",
-        ["15-10-2024", "07-05-2025", false, 1950, "long name"],
-        ["15-10-2024", "07-05-2025", true, 1050, "long name"],
+        ["09-01-2025", "06-05-2025", false, 1950, "long name"],
+        ["09-01-2025", "06-05-2025", true, 1050, "long name"],
     ],
 
     ["2.8",
-        ["22-02-2025", "15-04-2025", true, 1500, "long name"],
-        ["22-02-2025", "15-04-2025", true, 1500, "long name"],
+        ["27-02-2025", "21-04-2025", true, 1500, "long name"],
+        ["27-02-2025", "21-04-2025", true, 1500, "long name"],
     ],
 ]; // }}}
 const holidays = [ // {{{
@@ -47,6 +47,17 @@ const holidays = [ // {{{
     ["07-04-2025", "21-04-2025"],
     ["25-05-2025", "30-05-2025"],
     ["22-07-2025", "01-09-2025"],
+
+]; // }}}
+const milestones = [ // {{{
+    [ "19-09-2024", "Statement I" ],
+    [ "10-10-2024", "Information" ],
+    [ "12-12-2024", "Feedback I" ],
+    [ "12-12-2024", "Notes I" ],
+    [ "09-01-2025", "Statement II" ],
+    [ "20-03-2025", "Feedback II" ],
+    [ "22-05-2025", "Notes II" ],
+
 
 ]; // }}}
 
@@ -63,7 +74,19 @@ sheet.textContent = `
 `;
 document.head.appendChild(sheet);
 
+let milestoneSection = "section milestones";
 let assignements = "";
+
+milestones.forEach((m) => {
+    // let o = [];
+    // o.push(m[1] + "  :milestone, isadded, " + m[0], + ", 0d");
+    milestoneSection += "\n" + m[1] + "    :milestone, isadded, " + m[0] + ", 0d";
+
+
+
+    // milestoneSection += o.join("\n");
+});
+
 modules.forEach((m) => {
     let o = [];
     o.push("section " + m[0]);
@@ -105,6 +128,7 @@ let template = `
             dateFormat DD-MM-YYYY
             excludes ${daysOff}
 
+            ${milestoneSection}
             ${assignements}
 
   </pre>
